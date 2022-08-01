@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mfcardinal
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning how to implement ML to vibrational spectra
+- 💞️ I’m looking to collaborate on scientific projects
+- 📫 How to reach me fcardinal@unsam.edu.ar
